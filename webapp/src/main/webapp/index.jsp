@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Simple DevOps Project Memory !!   </h1>
-<h2> we  will build everything in this video </h2>
+t<h1> Hello Mr. Recruiter... Are you ready for your next Devops Star?? !!   </h1>
+<h2> we  wll build everything Tonight!! </h2>
 
